@@ -16,4 +16,8 @@ http://localhost:8080/api/accounts/
 ![img_4.png](img_4.png)
 
 ### PATCH
+http://localhost:8080/api/accounts/3/withdrawal
+![img_5.png](img_5.png)
 
+http://localhost:8080/api/accounts/3/deposits
+![img_6.png](img_6.png)
